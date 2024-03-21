@@ -16,9 +16,15 @@ Wenn die .txt Datei gültig war, startet das Spiel. Bei der Eingabe muss darauf 
 ### Autor/Programmierer
 
 Maximilian Schuster
+- [Github Page](https://github.com/maxischuster/bsd23_schuster_maximilian.git)
+- [FH Campus02][https://www.campus02.at/]
 
 ## Meine Projekte
 
 
 - [Exercise1](exercise1.md)
+- [Exercise2](exercise2.md)
 
+
+
+[def]: https://www.campus02.at/
