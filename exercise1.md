@@ -10,7 +10,7 @@ Bring Me The Horizon (BMTH) ist eine britische Metalcore-Band aus Sheffield, die
 - **Matt Nicholls**: Schlagzeug
 - **Jordan Fish**: Keyboard, Synthesizer, Gesang
 
-![BMTH](resources\images\BMTH_excercise1.jpg)
+![BMTH](resources/images/BMTH_excercise1.jpg)
 
 ## Diskographie:
 
