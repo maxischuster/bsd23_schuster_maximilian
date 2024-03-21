@@ -17,7 +17,7 @@ Wenn die .txt Datei gültig war, startet das Spiel. Bei der Eingabe muss darauf 
 
 Maximilian Schuster
 - [Github Page](https://github.com/maxischuster/bsd23_schuster_maximilian.git)
-- [FH Campus02][https://www.campus02.at/]
+- [FH Campus02](https://www.campus02.at/)
 
 ## Meine Projekte
 
