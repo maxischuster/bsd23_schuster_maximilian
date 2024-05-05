@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Subtraction: " + calculator.subtract(num1, num2));
         System.out.println("Multiplication: " + calculator.multiply(num1, num2));
         System.out.println("Division: " + calculator.divide(num1, num2));
+        System.out.println("Maximilian Schuster");
     }
 }
 
