@@ -5,6 +5,6 @@
 
  ![EX3_2](resources/images/ex3_2.PNG)
  
- ![EX3_3](resources/images/ex3_3.PNG)
+ ![EX3_3](resources/images/ex3_3.png)
 
 
