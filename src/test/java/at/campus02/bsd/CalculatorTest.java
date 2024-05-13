@@ -76,4 +76,19 @@ public class CalculatorTest {
     public void testDivideByZero() {
         assertThrows(ArithmeticException.class, () -> calculator.divide(5, 0), "Dividing by zero should throw ArithmeticException");
     }
+    @Test
+    public void testFactorialPositive() {
+        assertEquals(1, calculator.factorial(1), 0);
+        assertEquals(6, calculator.factorial(3), 0);
+    }
+    @Test
+    public void testFactorialNegative() {
+        assertEquals(0, calculator.factorial(-5), 0);
+    }
+
+    @Test
+    public void testFactorialZero() {
+        assertEquals(1, calculator.factorial(0), 0);
+    }
+
 }

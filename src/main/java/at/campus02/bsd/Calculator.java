@@ -19,4 +19,8 @@ public class Calculator {
         }
         return num1 / num2;
     }
+
+    public double factorial(int n) {
+        return 0;
+    }
 }

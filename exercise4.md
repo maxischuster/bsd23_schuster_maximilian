@@ -24,4 +24,5 @@
 - **Test Case 2**: Divide a number by a larger number (e.g., `divide(5, 10)`).
 - **Test Case 3**: Test division by zero (e.g., `divide(5, 0)`), expecting an `ArithmeticException`.
 
- ![Screenshot](resources/images/ex4_1.png)
+ ![EX4_1](resources/images/ex4_1.png)
+ ![EX4_2](resources/images/ex4_2.png)
