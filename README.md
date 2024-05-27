@@ -26,7 +26,9 @@ Maximilian Schuster
 - [Exercise2](exercise2.md)
 - [Exercise3](exercise3.md)
 - [Exercise4](exercise4.md)
+- [Exercise5](exercise5.md)
 
 
-
+- [log4j2 template](log4j2.xml.template)
+- 
 [def]: https://www.campus02.at/
