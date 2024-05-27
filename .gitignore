@@ -39,4 +39,5 @@ build/
 
 *.html
 *.pdf
-.idea
+*.idea
+*.log
