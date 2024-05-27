@@ -41,3 +41,4 @@ build/
 *.pdf
 *.idea
 *.log
+log4j2.xml

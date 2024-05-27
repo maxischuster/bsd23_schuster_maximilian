@@ -11,7 +11,7 @@ public class Main {
         Calculator calculator = new Calculator();
 
         double num1 = 10.5;
-        double num2 = 5.2;
+        double num2 = 0;
 
 
         logger.info("Starting the programm");
