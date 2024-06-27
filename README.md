@@ -27,6 +27,7 @@ Maximilian Schuster
 - [Exercise3](exercise3.md)
 - [Exercise4](exercise4.md)
 - [Exercise5](exercise5.md)
+- [Exercise6](exercise6.md)
 
 
 - [log4j2 template](log4j2.xml.template)

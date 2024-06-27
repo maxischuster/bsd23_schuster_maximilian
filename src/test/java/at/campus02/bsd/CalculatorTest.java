@@ -103,7 +103,7 @@ public class CalculatorTest {
     @Test
     public void testFactorialNegative() {
         logger.info("Testing factorial of a negative number: -5");
-        assertEquals(0, calculator.factorial(-5), "Factorial of a negative number should equal 0");
+        assertThrows(IllegalArgumentException.class, () -> calculator.factorial(-5), "Factorial of a negative number is not defined");
     }
 
     @Test
