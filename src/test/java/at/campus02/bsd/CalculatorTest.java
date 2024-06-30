@@ -36,23 +36,23 @@ public class CalculatorTest {
         assertEquals(5, calculator.add(5, 0), "Adding 5 and 0 should equal 5");
     }
 
-    // Test cases for the subtract method
+    // Test cases for the minus method
     @Test
     public void testSubtractPositiveNumbers() {
         logger.info("Testing subtraction of positive numbers: 5 - 3");
-        assertEquals(2, calculator.subtract(5, 3), "Subtracting 3 from 5 should equal 2");
+        assertEquals(2, calculator.minus(5, 3), "Subtracting 3 from 5 should equal 2");
     }
 
     @Test
     public void testSubtractNegativeNumbers() {
         logger.info("Testing subtraction of negative numbers: -5 - -3");
-        assertEquals(-2, calculator.subtract(-5, -3), "Subtracting -3 from -5 should equal -2");
+        assertEquals(-2, calculator.minus(-5, -3), "Subtracting -3 from -5 should equal -2");
     }
 
     @Test
     public void testSubtractZero() {
         logger.info("Testing subtraction with zero: 5 - 0");
-        assertEquals(5, calculator.subtract(5, 0), "Subtracting 0 from 5 should equal 5");
+        assertEquals(5, calculator.minus(5, 0), "Subtracting 0 from 5 should equal 5");
     }
 
     // Test cases for the multiply method

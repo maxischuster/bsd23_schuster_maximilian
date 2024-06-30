@@ -17,7 +17,7 @@ public class Main {
         logger.info("Starting the programm");
 
         System.out.println("Addition: " + calculator.add(num1, num2));
-        System.out.println("Subtraction: " + calculator.subtract(num1, num2));
+        System.out.println("Subtraction: " + calculator.minus(num1, num2));
         logger.error("ATTENTION: An error appeared");
         System.out.println("Multiplication: " + calculator.multiply(num1, num2));
         System.out.println("Division: " + calculator.divide(num1, num2));

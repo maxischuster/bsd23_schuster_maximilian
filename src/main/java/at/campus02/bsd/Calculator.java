@@ -29,10 +29,10 @@ public class Calculator {
      * Subtracts one number from another.
      *
      * @param num1 the number from which {@code num2} is subtracted
-     * @param num2 the number to subtract from {@code num1}
+     * @param num2 the number to minus from {@code num1}
      * @return the difference of {@code num1} and {@code num2}
      */
-    public double subtract(double num1, double num2) {
+    public double minus(double num1, double num2) {
         logger.debug("Subtracting " + num2 + " from " + num1);
         return num1 - num2;
     }
